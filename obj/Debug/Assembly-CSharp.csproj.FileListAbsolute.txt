@@ -20,3 +20,4 @@ C:\Users\Baxter\Documents\New Unity Project\Temp\bin\Debug\UnityEngine.Networkin
 C:\Users\Baxter\Documents\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Baxter\Documents\New Unity Project\obj\Debug\Assembly-CSharp.dll
 C:\Users\Baxter\Documents\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Baxter\Documents\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

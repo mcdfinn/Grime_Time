@@ -19,12 +19,12 @@ public class BulletDestroy : MonoBehaviour {
 
 
 
-	void OnCollisionEnter2D(Collision2D collsion) {
-		Destroy();
+	void OnCollisionEnter2D(Collision2D collision) {
+		Destroy(this.gameObject);
 
 	}
 
 
-};
+}
 
 
